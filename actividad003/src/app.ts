@@ -53,7 +53,7 @@ class Helice
     }
     public ToString()
     {
-        return this.numHelices + " Hélices";
+        return this.numHelices + " Hélices, ";
     }
 }
 
@@ -128,3 +128,11 @@ class Aeroplano
         return mensaje;
     }
 }
+
+let _helice: Helice = new Helice(1);
+let _trenAterrizaje: TrenDeAterrizaje = new TrenDeAterrizaje (true,2,2);
+let _alas: Alas = new Alas(2,2);
+let _cubierta: Cubierta = new Cubierta(true,true,true,1,2);
+let _aeroplano: Aeroplano = new Aeroplano(_helice,_trenAterrizaje,_alas,_cubierta);
+
+console.log(_aeroplano.ToString());
