@@ -1,12 +1,21 @@
 "use strict";
 class Rectangulo {
     constructor(ancho, alto) {
+        this._nombre = "";
         console.log("constructor()");
         this.ancho = ancho;
         this.alto = alto;
     }
-    area() {
-        console.log("area()");
+    get nombre() {
+        console.log("Obtengo el nombre");
+        return this._nombre;
+    }
+    set nombre(value) {
+        console.log("Seteo el nombre");
+        this._nombre = value;
+    }
+    get area() {
+        console.log("getter de area");
         return this.ancho * this.alto;
     }
     perimetro() {
@@ -14,6 +23,5 @@ class Rectangulo {
     }
 }
 let r1 = new Rectangulo(10, 15);
-let r2 = new Rectangulo(4, 3);
-console.log(r1.area());
-console.log(r2.area());
+r1.nombre = "A";
+console.log(`El rectángulo ${r1.nombre}`);
