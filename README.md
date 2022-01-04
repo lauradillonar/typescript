@@ -18,3 +18,7 @@ Actividad 10: Por Makigas. Funciones
 Actividad 11: Por Makigas. Clases: Modificadores de acceso
 
 Actividad 12: Por Makigas. Clases: Atributos virtuales getters y setters
+
+Actividad 13: Por Makigas. Clases: Herencia
+
+Actividad 14: Por Makigas. Clases: abstract y protected
