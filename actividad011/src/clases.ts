@@ -1,6 +1,6 @@
 class Rectangulo {
-    private ancho: number
-    private alto: number
+    private readonly ancho: number
+    private readonly alto: number
 
     constructor(ancho:number, alto:number){
         console.log("constructor()")
