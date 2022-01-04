@@ -24,3 +24,5 @@ Actividad 13: Por Makigas. Clases: Herencia
 Actividad 14: Por Makigas. Clases: abstract y protected
 
 Actividad 15: Por Makigas. Tipos alias y tipos literales
+
+Actividad 16: Por Makigas. Uniones e intersecciones de tipos
