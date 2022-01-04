@@ -22,3 +22,5 @@ Actividad 12: Por Makigas. Clases: Atributos virtuales getters y setters
 Actividad 13: Por Makigas. Clases: Herencia
 
 Actividad 14: Por Makigas. Clases: abstract y protected
+
+Actividad 15: Por Makigas. Tipos alias y tipos literales
