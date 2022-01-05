@@ -26,3 +26,7 @@ Actividad 14: Por Makigas. Clases: abstract y protected
 Actividad 15: Por Makigas. Tipos alias y tipos literales
 
 Actividad 16: Por Makigas. Uniones e intersecciones de tipos
+
+Actividad 17: Por Makigas. Introducción a las interfaces
+
+Actividad 18: Por Makigas. Usando interfaces con clases
