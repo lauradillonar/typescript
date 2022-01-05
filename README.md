@@ -41,4 +41,8 @@ Actividad 22: Por Makigas. Diferencia entre interfaces y tipos
 
 Actividad 23: Por Makigas. Casteos con as
 
-Artividad 24: Por Makigas. Tipos enumerados
+Actividad 24: Por Makigas. Tipos enumerados
+
+Actividad 25: Por Makigas. Genéricos
+
+
