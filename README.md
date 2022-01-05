@@ -36,3 +36,7 @@ Actividad 19: Por Makigas. Herencia de interfaces
 Actividad 20: Por Makigas. Interfaces indizadas
 
 Actividad 21: Por Makigas. Interfaces: funciones y tipos hibridos
+
+Actividad 22: Por Makigas. Diferencia entre interfaces y tipos
+
+Actividad 23: Por Makigas. Casteos con as
