@@ -31,4 +31,8 @@ Actividad 17: Por Makigas. Introducción a las interfaces
 
 Actividad 18: Por Makigas. Usando interfaces con clases
 
-Actividad 19: Por Makigas. Interfaces indizadas
+Actividad 19: Por Makigas. Herencia de interfaces
+
+Actividad 20: Por Makigas. Interfaces indizadas
+
+Actividad 21: Por Makigas. Interfaces: funciones y tipos hibridos
