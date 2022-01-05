@@ -30,3 +30,5 @@ Actividad 16: Por Makigas. Uniones e intersecciones de tipos
 Actividad 17: Por Makigas. Introducción a las interfaces
 
 Actividad 18: Por Makigas. Usando interfaces con clases
+
+Actividad 19: Por Makigas. Interfaces indizadas
