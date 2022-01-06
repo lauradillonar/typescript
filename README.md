@@ -49,3 +49,5 @@ Actividad 26: Handbook TS. Tipos de utilidad
 
 Actividad 27: Por Makigas. Exportar Importar. Módulos
 
+Actividad 28: Por Makigas. Archivos de definición d.ts
+
