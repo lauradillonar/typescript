@@ -45,4 +45,5 @@ Actividad 24: Por Makigas. Tipos enumerados
 
 Actividad 25: Por Makigas. Genéricos
 
+Actividad 26: Handbook TS. Tipos de utilidad
 
